@@ -1,4 +1,5 @@
 from django.db import models
+from django.db.models.fields import AutoField
 
 # Create your models here.
 class Flat(models.Model):
